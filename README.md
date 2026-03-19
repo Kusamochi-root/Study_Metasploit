@@ -20,5 +20,5 @@ This repository is dedicated to my personal research on penetration testing and 
 
 ---
 
-## 🚀 
-> "I am a complete beginner, but I am committed to pushing my limits and mastering these skills."  
+## 🚀 Afterword
+> "Finally,I am a complete beginner, but I am committed to pushing my limits and mastering these skills."  
