@@ -20,8 +20,5 @@ This repository is dedicated to my personal research on penetration testing and 
 
 ---
 
-## 🚀 Future Vision
+## 🚀 
 > "I am a complete beginner, but I am committed to pushing my limits and mastering these skills."  
-> — *Current Status: Learning & Growing every midnight.*
-
-親に内緒の深夜のコードが、いつか世界を守る力になると信じて
